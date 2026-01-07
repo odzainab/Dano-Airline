@@ -11,7 +11,7 @@ _Why passengers are unhappy and where Dano Airlines can take immediate action to
 - **High-Impact Segments:** Short-haul flights, first-time flyers, teens
 - **Dataset**: [Data Source Link](https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-OMX8xVZOJ5VL7f35v7sRQ/edit?gid=1647986900#gid=1647986900) 
 - **Interactive Dashboard:** [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNWYyZWQ2MTItOTAyOC00MDQzLTg5NzctNjg4OTdhYTE0NDRlIiwidCI6IjdlMGI1ZmNmLTEyYzQtNGVmZi05NmI2LTQ2NjRmMjVkYzdkYSIsImMiOjEwfQ%3D%3D)  
-- **Full Analysis & Storytelling:** [Read on Medium](https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-OMX8xVZOJ5VL7f35v7sRQ/edit?gid=1647986900#gid=1647986900)
+- **Full Analysis & Storytelling:** [Read on Medium](https://medium.com/@odzainab1/dano-airline-customer-satisfaction-2b9e40bf43de)
 
 
 
